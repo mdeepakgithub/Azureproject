@@ -1,0 +1,9 @@
+{
+	"name": "adf-deepak",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "46985100-3c92-443e-bf30-6e806c46e68c",
+		"tenantId": "38be8142-38ce-4a5b-9214-99a8d3853253"
+	}
+}
